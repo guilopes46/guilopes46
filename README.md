@@ -1,12 +1,15 @@
-### Hi there 👋
+###  Seja bem vindo(a)
+Meu nome é Guilherme Lopes e tenho 16 anos,
+Atualmente eu estou cursando desenvolvimento de sistema ,
+whatsapp:11984084896
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **guilopes46/guilopes46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started  
-at atualmente eu estou fazendo curso
-no moment estou aprendendo  a programar
-whatsapp 11984084896
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

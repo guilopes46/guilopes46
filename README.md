@@ -3,9 +3,11 @@ Meu nome é Guilherme Lopes e tenho 16 anos,
 Atualmente eu estou cursando desenvolvimento de sistema ,
 whatsapp:11984084896
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilopes46)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilopes46)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+(https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **guilopes46/guilopes46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

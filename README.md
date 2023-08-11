@@ -3,7 +3,7 @@ Meu nome é Guilherme Lopes e tenho 16 anos,
 Atualmente eu estou cursando desenvolvimento de sistema ,
 whatsapp: 11984084896
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilopes46&show_icons=true&theme=transparent) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilopes46&layout=compact)
 
